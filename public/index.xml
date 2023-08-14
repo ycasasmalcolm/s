@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malcolm</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Malcolm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Aug 2023 06:36:28 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact details</title>
+      <link>http://example.org/posts/my-third-post/</link>
+      <pubDate>Fri, 11 Aug 2023 06:36:28 +0000</pubDate>
+      
+      <guid>http://example.org/posts/my-third-post/</guid>
+      <description>Email ycasasmalcolm@gmail.com Mobile Number +639267315985 Instagram @everydayMalcolm </description>
+    </item>
+    
+    <item>
+      <title>Favorite Quotes/Phrases</title>
+      <link>http://example.org/posts/my-second-post/</link>
+      <pubDate>Thu, 10 Aug 2023 08:24:26 +0000</pubDate>
+      
+      <guid>http://example.org/posts/my-second-post/</guid>
+      <description>“I&amp;rsquo;m selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can&amp;rsquo;t handle me at my worst, then you sure as hell don&amp;rsquo;t deserve me at my best.”. ― Marilyn Monroe. “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.” ― Albert Einstein </description>
+    </item>
+    
+    <item>
+      <title>Hobbies</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Thu, 10 Aug 2023 08:23:51 +0000</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>- Playing Volleyball - Surfing - Playing Mobile Games - Watching Movies and Series - Travelling - Modeling </description>
+    </item>
+    
+    <item>
+      <title>Personal details</title>
+      <link>http://example.org/posts/my-fourth-post/</link>
+      <pubDate>Thu, 10 Aug 2023 08:23:51 +0000</pubDate>
+      
+      <guid>http://example.org/posts/my-fourth-post/</guid>
+      <description>- Malcolm Tre Vedder Ycasas - 27 years old - 5&#39;7 - 65 kg - Filipino </description>
+    </item>
+    
+  </channel>
+</rss>
